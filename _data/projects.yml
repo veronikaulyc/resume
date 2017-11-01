@@ -7,3 +7,10 @@
   duration: 2017 &mdash; Present
   url: "https://veronikaulyc.github.io/stocks-advisor/"
   description: React application using Firebase to help manage stocks trading.
+  
+  # Photography shop
+- project: Photography shop
+  role: Primary Developer
+  duration: 2017 &mdash; Present
+  url: "https://veronikaulyc.github.io/photo-shop/"
+  description: Simple React application using Firebase for selling photos online.
