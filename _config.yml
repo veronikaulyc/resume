@@ -12,8 +12,9 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Veronika Ulychny"
 resume_title:                   "Full stack Developer"
-resume_contact_email:           "+972-545398994"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_contact_email:           "veronikauly@gmail.com"
+resume_contact_phone:           "+972-545398994"
+resume_header_intro: "<p> Full stack web developer, interested in learning and using new technologies</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
