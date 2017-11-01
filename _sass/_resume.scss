@@ -13,16 +13,13 @@
     font-size: 1.5rem;
     letter-spacing: -.05rem;
     margin: 0;
+    background-color: #c8b6d8;
   }
 }
 
 // page header styles
 
 .page-header { padding: 1.5rem 0;
-  background-color: #3B2F63;
-  background-image: -webkit-radial-gradient(50% top, circle, rgba(84,90,182,0.6) 0%, rgba(84,90,182,0) 75%),
-  -webkit-radial-gradient(right top, circle, #794aa2 0%, rgba(121,74,162,0) 57%);
-  color: white;
 
   .avatar {
     width: 95px;
@@ -139,13 +136,13 @@
   .resume-item-title {
     @include sans_bold;
     margin: 0 0 .75rem;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     letter-spacing: -.05rem;
     line-height: 1;
   }
 
   .resume-item-details {
-    font-size: 1.125rem;
+    font-size: 1rem;
     margin: 0 0 .75rem;
     line-height: 1;
 
