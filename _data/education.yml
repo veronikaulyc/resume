@@ -1,6 +1,16 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: MA in economics
+  uni: Tel Aviv and Jerusalem universities
+  year: 2011 &mdash; 2014
+  awards: Scholarship for excellence in studies
+  summary: Acquired advanced research methodologies 
+# Degree
+- degree: BA in economics
+  uni: Tel Aviv university
+  year: 2007 &mdash; 2010
+  awards: finished cum laude
+  # Degree
+- degree: BA in political science
+  uni: Tel Aviv university
+  year: 2007 &mdash; 2010
+  summary: Acquired management methodologies 
