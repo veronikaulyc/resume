@@ -65,14 +65,14 @@
       {% endif %}
       
       
-      {% if site.resume_section_projects %}
-      <!-- begin Projects -->
+      {% if site.resume_section_portfolio %}
+      <!-- begin portfolio -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Projects</h2>
+          <h2>Portfolio</h2>
         </header>
 
-        {% for project in site.data.projects %}
+        {% for project in site.data.portfolio %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
@@ -82,7 +82,7 @@
         {% endfor %}
 
       </section>
-      <!-- end Projects -->
+      <!-- end Portfolio -->
       {% endif %}
 
 
