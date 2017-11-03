@@ -4,12 +4,11 @@
   position: System Engineer
   duration: 2014 &mdash; 2017
   summary: <ul class="resume-item-list">
-    <li>Developed small applications in Python / Javascript / Groovy for integration of different applications and process automation.</li>
-    <li> Worked with company custoemrs collecting and defining system requirements, including finding fast solutions 
-    to specific problems. </li>
-    <li>Was personnally responsible for projects' development and deployment cycle syncronizing between development, 
-    QA, and sales teams.</li>
-     <li>Participated in code design meetings</li></ul>
+    <li>Developed applications (Python / Javascript / Groovy) for integration and processes automation</li>
+    <li>Worked with company customers collecting and defining system requirements</li>
+    <li>Responsible for quick solutions for customers' specific needs</li>
+    <li>Was personnally responsible for projects' development and synchronizing between R&D, QA, and sales teams</li>
+    <li>Involved in product design meetings</li></ul>
 
 # Israeli Prime Minister Office
 - company: Israeli Prime Minister Office
@@ -17,16 +16,16 @@
   duration:  2007 &mdash; 2014
   summary: <ul class="resume-item-list">
     <li>Had personal responsibility for projects,
-        implementation of researches, data mining and analysis.</li>
+        implementation of researches, data mining and analysis</li>
     <li> Worked in computerized
-        and dynamic environment, that required summarization and fast learning skills. </li>
-    <li>Worked under intensive pressure with a large number of subjects.</li></ul>
+        and dynamic environment, that required summarization and fast learning skills</li>
+    <li>Worked under intensive pressure with a large number of subjects</li></ul>
 
 # Logia
 - company: Logia
   position: Python web developer
   duration:   2006  &mdash; 2007
-  summary: Python web developer in “Logia”, a contractor company specialized in web developing for large companies.
+  summary: Python web developer in “Logia”, a contractor company specialized in web developing for large companies
   
   # Military service
 - company: Intelligence Corps Unit 8200
