@@ -14,3 +14,18 @@
   duration: 2017 &mdash; Present
   url: "https://veronikaulyc.github.io/photo-shop/"
   description: Simple React application using Firebase for selling photos online.
+  
+  # Redux app
+- project: Reduxtagram
+  role: Primary Developer
+  duration: 2017 &mdash; Present
+  url: "https://calm-retreat-18214.herokuapp.com/"
+  description: Simple Redux application imitating Instagram.
+  
+  # Other projects
+- project: Additional projects
+  role: Primary Developer
+  duration: 2017 &mdash; Present
+  url: "https://github.com/veronikaulyc"
+  description: You can see my additional projects in my github repositories .
+
