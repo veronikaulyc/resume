@@ -36,7 +36,7 @@ resume_section_other:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/veronikaulycr"
+  resume_github_url:            "https://github.com/veronikaulyc"
   resume_linkedin_url:          "https://www.linkedin.com/in/veronika-ulychny-592a101/"
   resume_website_url:           "/resume"
 resume_print_social_links:      true
